@@ -17,3 +17,9 @@ Provide valuable services to and share expertise and facilities and various stak
 
 Harness and undertake relevant ICT research directed towards mission-critical, public-service-sensitive, development- management-supportive, and review-generating areas
 
+GROUP MEMBERS :
+
+1. Dion Rey Gemalaya
+2. Evelyn Sotela
+3. Eden Faith Tagudando
+4. Angie Rose Azucena
