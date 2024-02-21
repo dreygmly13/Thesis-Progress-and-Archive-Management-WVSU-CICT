@@ -1,2 +1,3 @@
 This system project and its corresponding documentation, entitled "Thesis Progress Monitoring and Archive Management System for WVSU CICT," are submitted to the College of Information and Communications Technology, West Visayas State University, in partial fulfillment of the requirements for the degree [Bachelor of Science in Information Systems]. It is the product of our own work, except where indicated in the text.
+
 We give the College of Information and Communications Technology permission to freely use, publish in local or international journals or conferences, reproduce, or distribute paper and electronic copies of this software project and its documentation, in whole or in part, as long as we are credited.
