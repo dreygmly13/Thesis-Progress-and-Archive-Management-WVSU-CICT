@@ -15,7 +15,7 @@ Inculcate in its students value of independent and life-long learning;
 
 Provide valuable services to and share expertise and facilities and various stakeholders on the transfer and promotion of information and communication technology for local, regional and national benefit;
 
-Harness and undertake relevant ICT research directed towards mission-critical, public-service-sensitive, development- management-supportive, and review-generating areas
+Harness and undertake relevant ICT research directed towards mission-critical, public-service-sensitive, development- management-supportive, and review-generating areas.
 
 GROUP MEMBERS :
 
