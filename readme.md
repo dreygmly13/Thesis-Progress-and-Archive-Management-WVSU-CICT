@@ -1,4 +1,4 @@
-Abstract
+##Abstract
 
 The majority of research papers written by CICT graduates and students are piling up each year, and maintaining and protecting copies of these papers is becoming increasingly difficult. Furthermore, it can be challenging for thesis advisers to keep track of their students' progress on their theses when there is insufficient contact between themselves and the students they are advising. The purpose of this thesis is to design and build a web-based thesis progress monitoring and archiving management system for use by the WVSU CICT.
 
@@ -20,7 +20,7 @@ Harness and undertake relevant ICT research directed towards mission-critical, p
 
 
 
-System Requirements and Installation
+##System Requirements and Installation
 
 7.4 or later on Windows, v1. 8.1 or later on Linux, and v1. 8.2 or later on Mac OS X.
 Bitnami for XAMPP works properly on top of the portable version.
@@ -30,13 +30,13 @@ no configuration of the various components that make up the web server is requir
 The Windows version of XAMPP requires Microsoft Visual C++ 2017 Redistributable.
 
 
-Installation/Set-up Requirements
+#Installation/Set-up Requirements
 
 ■ Download and Install any local web server such as XAMPP/WAMP.
 
 ■ Download the provided source code zip file. (Thesis-Progress-and-Archive-Management-WVSU-CICT)
 
-Installation/Setup
+##Installation/Setup
 
 1. Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
 2. Extract the downloaded source code zip file.
@@ -65,7 +65,7 @@ Password: password
 
 
 
-GROUP MEMBERS :
+###GROUP MEMBERS :
 
 1. Dion Rey Gemalaya
 2. Evelyn Sotela
