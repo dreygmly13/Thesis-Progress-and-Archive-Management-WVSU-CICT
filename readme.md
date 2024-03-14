@@ -66,9 +66,9 @@ Username: coordinator@gmail.com
 
 Password: password
 
-## GROUP MEMBERS
+## CONTRIBUTORS
 
-GROUP MEMBERS :
+
 1. Dion Rey Gemalaya
 
 2. Evelyn Sotela
