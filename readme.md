@@ -17,6 +17,51 @@ Provide valuable services to and share expertise and facilities and various stak
 
 Harness and undertake relevant ICT research directed towards mission-critical, public-service-sensitive, development- management-supportive, and review-generating areas.
 
+
+
+
+System Requirements and Installation
+
+7.4 or later on Windows, v1. 8.1 or later on Linux, and v1. 8.2 or later on Mac OS X.
+Bitnami for XAMPP works properly on top of the portable version.
+
+XAMPP requires only one zip, tar, 7z, or exe file to be downloaded and run, and little or
+no configuration of the various components that make up the web server is required.
+The Windows version of XAMPP requires Microsoft Visual C++ 2017 Redistributable.
+
+
+Installation/Set-up Requirements
+
+■ Download and Install any local web server such as XAMPP/WAMP.
+
+■ Download the provided source code zip file. (Thesis-Progress-and-Archive-Management-WVSU-CICT)
+
+Installation/Setup
+
+1. Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
+2. Extract the downloaded source code zip file.
+3. If you are using XAMPP, copy the extracted source code folder and paste it into
+the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the
+"www" directory.
+4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+5. Create a new database naming west.
+6. Import the provided SQL file. The file is known as west.sql located inside the
+database folder.
+7. Browse the Online Thesis Archiving System in a browser. i.e.
+http://localhost/west
+
+
+
+
+
+Default Admin Access Information
+Username: coordinator@gmail.com
+Password: password
+
+
+
+
+
 GROUP MEMBERS :
 
 1. Dion Rey Gemalaya
