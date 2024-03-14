@@ -66,7 +66,7 @@ Username: coordinator@gmail.com
 
 Password: password
 
-## Rename a file
+## GROUP MEMBERS
 
 GROUP MEMBERS :
 1. Dion Rey Gemalaya
