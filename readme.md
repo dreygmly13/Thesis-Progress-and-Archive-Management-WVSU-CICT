@@ -54,9 +54,12 @@ http://localhost/west
 
 
 
+
 Default Admin Access Information
 Username: coordinator@gmail.com
 Password: password
+
+
 
 
 
