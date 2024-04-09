@@ -1,0 +1,18 @@
+
+<IfModule mod_rewrite.c>
+  Header set Access-Control-Allow-Origin "*"
+  
+  Options -Indexes 
+
+  RewriteEngine on
+  
+  ErrorDocument 403 http://%{HTTP_HOST}/west/error?403
+  ErrorDocument 404 http://%{HTTP_HOST}/west/error?404
+  ErrorDocument 500 http://%{HTTP_HOST}/west/error?500
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}\.php -f
+  RewriteRule ^(.*)$ $1.php [NC,L] 
+  RewriteCond %{REQUEST_FILENAME}\.html -f
+  RewriteRule ^(.*)$ $1.html [NC,L]
+</IfModule>
